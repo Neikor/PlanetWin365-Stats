@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PlanetWin365 Stats
 // @namespace    https://s5.sir.sportradar.com/planetwin365hosted/it/1
-// @version      0.1
+// @version      0.2
 // @description  try to take over the world!
 // @author       You
 // @match        https://s5.sir.sportradar.com/planetwin365hosted/it/1
@@ -11,6 +11,7 @@
 
 
 // test per Davide
+let Davide
 let navbar = document.getElementsByClassName("row buttons flex-items-xs-middle flex-xs-nowrap");
 let bloccoMio;
 let tabella;
