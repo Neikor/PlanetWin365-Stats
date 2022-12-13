@@ -9,6 +9,8 @@
 // @grant        none
 // ==/UserScript==
 
+
+// test per Davide
 let navbar = document.getElementsByClassName("row buttons flex-items-xs-middle flex-xs-nowrap");
 let bloccoMio;
 let tabella;
